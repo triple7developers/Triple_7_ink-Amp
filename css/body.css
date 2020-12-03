@@ -1,0 +1,43 @@
+body {
+    --main-color-1: #343a40;
+    --main-bg-color: #fff;
+    --main-tx-color-1: #343a40;
+    --white-color: rgba(255, 0, 0, 0.5);
+    --navbar-bg-color: #222222;
+    --navbar-tx-color: #343a40;
+    --footer-bg-color: #fff;
+    --footer-tx-color: #343a40;
+    --title-font: "Julius Sans One", sans-serif;
+    --text-font: "roboto", sans-serif;
+    --main-btn-radius: 30px;
+    --title-1-desktop: 60px "Metal Mania", sans-serif;
+    --title-1-mobile: 30px "Metal Mania", sans-serif;
+    --title-2-desktop: 32px "Nothing You Could Do", sans-serif;
+    --title-2-mobile: 30px "Nothing You Could Do", sans-serif;
+    --title-3-desktop: 22px "Quicksand", sans-serif;
+    --title-3-mobile: 24px "Quicksand", sans-serif;
+    --title-4-desktop: 20px "Metal Mania", sans-serif;
+    --title-4-mobile: 18px "Metal Mania", sans-serif;
+    --text-1-desktop: 20px "Nanum Gothic", sans-serif;
+    --text-1-mobile: 18px "Nanum Gothic", sans-serif;
+    --text-2-desktop: 15px "Arsenal", sans-serif;
+    --text-2-mobile: 15px "Arsenal", sans-serif;
+    --text-3-desktop: 17px "Big Shoulders Text", sans-serif;
+    --text-3-mobile: 12px "Big Shoulders Text", sans-serif;
+    --text-4-desktop: 17px "Big Shoulders Text", sans-serif;
+    --text-4-mobile: 13px "Big Shoulders Text", sans-serif;
+    font-size: var(--font-size);
+    position: var(--position);
+    --var-navbar-padding: 14px;
+    --mobile-navbar-bg-color: #343a40;
+    --navbar-2nd-bg-color: rgb(0, 0, 0);
+    --drop-navbar-bg-color: var(--mobile-navbar-bg-color);
+}
+
+b,h1,h2,h3,h4,h5,h6,li,p {
+    margin: 10px auto
+}
+
+a,span {
+    margin: 5px auto
+}

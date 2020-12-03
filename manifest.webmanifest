@@ -1,0 +1,19 @@
+{name: "Triple 7 Ink Mobile Tattoo", short_name: "Triple7ink", start_url: "/", display: "standalone",…}
+background_color: "#e1e2f3
+display: "standalone"
+icons: [{src: "/logo/777192png.png", sizes: "192x192", type: "image/png"},…]
+0: {src: "/logo/777192png.png", sizes: "192x192", type: "image/png"}
+sizes: "192x192"
+src: "/logo/777192png.png"
+type: "image/png"
+1: {src: "/logo/logo512png.png", sizes: "512x512", type: "image/png"}
+sizes: "512x512"
+src: "/logo/logo512png.png"
+type: "image/png"
+name: "Triple 7 Ink Mobile Tattoo"
+orientation: "portrait"
+short_name: "Triple7ink"
+shortcuts: [{name: "Home", url: "/index/"}]
+0: {name: "Home", url: "/index/"}
+start_url: "/"
+theme_color: "#fff"
